@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1200&color=C4A882&center=true&vCenter=true&width=600&lines=En+formation+%C3%A0+l%27%C3%89cole+42+Lyon+%E2%9C%A6;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Docker;Je+cherche+une+mission+freelance;Aux+c%C3%B4t%C3%A9s+de+devs+exp%C3%A9riment%C3%A9s" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1200&color=C4A882&center=true&vCenter=true&width=600&lines=En+formation+%C3%A0+l%27%C3%89cole+42+Lyon+%E2%9C%A6;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Docker;Bienvenue+chez+moi;Aux+c%C3%B4t%C3%A9s+de+devs+exp%C3%A9riment%C3%A9s" alt="Typing animation" />
 </p>
 
 ---
