@@ -2,10 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:233067,25:6A1B9A,60:F57C00,85:FFB300,100:E6A268&height=160&section=header&text=Sunny%20&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=%20%C2%B7%20%C3%89cole%2042%20Lyon%20%C2%B7%20Fullstack%20en%20construction&descAlignY=65&descSize=14&descColor=ffffff" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1200&color=C4A882&center=true&vCenter=true&width=600&lines=En+formation+%C3%A0+l%27%C3%89cole+42+Lyon+%E2%9C%A6;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Docker;%E2%9C%A6+Bienvenue+chez+moi+%E2%9C%A6;" alt="Typing animation" />
+</p> -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="Bannière Sunny" width="100%" />
 </p>
-
 ---
 
 ## 🛠 Stack
